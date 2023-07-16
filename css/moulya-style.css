@@ -30,9 +30,22 @@ h2
 h2 span
 	{
 		color: #28a7e9;
-		font-weight: bold;
+		font-weight: bold; 
 	}
+
+
 /* end h2 */
+#home .commingsoon{
+	color: #28a7e9;
+	font-weight: 300;
+	font-size: 70px;
+}
+
+h2 span p
+{
+	color: #28a7e9;
+	font-weight: 30px; 
+}
 
 /* start about team service portfolio contact */
 #about, #team, #service,
@@ -604,7 +617,7 @@ header .social-icon li a
    align-content: space-around;
 }
 
-.tagline{
+.slogan{
 	position: relative;
     line-height:1;
     top: -15px; /* Changes the space between the logo and the slogan */
