@@ -185,9 +185,9 @@ header .social-icon li a
 		font-weight: bold;
 		color: #28A7E9; 
 		font-size: 18px;
-		height: 70px;
+		/* height: 70px; */
 		line-height: 40px;
-		padding: 12px 0px 0px 12px;
+		padding: 5px 0px 0px 5px;
 	}
 .navbar-default .navbar-nav li a
 	{
