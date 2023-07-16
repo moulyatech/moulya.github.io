@@ -35,17 +35,14 @@ h2 span
 
 
 /* end h2 */
-#home .commingsoon{
+#home .comingsoon{
 	color: #28a7e9;
 	font-weight: 300;
 	font-size: 70px;
+	font-family: bold;
 }
 
-h2 span p
-{
-	color: #28a7e9;
-	font-weight: 30px; 
-}
+
 
 /* start about team service portfolio contact */
 #about, #team, #service,
@@ -628,6 +625,16 @@ header .social-icon li a
 	text-align: end;
 	font-family: bold;
 }
+
+
+.comingsoondescription /* No Use */
+{ 
+	color: #28a7e9;
+	font-size: .9em; /* Changes the font size of the slogan */
+	font-weight: 1px;
+ 
+}
+
 
 /* Contact Us Messages*/
 @import url('//maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css');
