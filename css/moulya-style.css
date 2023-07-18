@@ -637,7 +637,9 @@ header .social-icon li a
 
 
 .logo-img{
+  width: 275px;
   max-width: 280px;
+  height: 55px;
   max-height: 60px;
 
 }
