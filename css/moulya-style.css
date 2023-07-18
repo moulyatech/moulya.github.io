@@ -636,6 +636,14 @@ header .social-icon li a
 }
 
 
+.logo-img{
+  max-width: 280px;
+  max-height: 60px;
+
+}
+
+
+
 /* Contact Us Messages*/
 @import url('//maxcdn.bootstrapcdn.com/font-awesome/4.2.0/css/font-awesome.min.css');
 
