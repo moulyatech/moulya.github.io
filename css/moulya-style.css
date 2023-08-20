@@ -629,13 +629,13 @@ header .social-icon li a
 	position: absolute;
     line-height:1;
      /*  top: -15px; Changes the space between the logo and the slogan */
-      font-size: 1.3em; /* Changes the font size of the slogan */
+      font-size: 1.5em; /* Changes the font size of the slogan */
     /* font-style: italic;  Changes the font style of the slogan */
     color:#28a7e9; /* Changes the color of the slogan */
 	letter-spacing:0px; /* Changes the letter spacing of the slogan */
 	text-align: center;
 	font-family: bold; 
-	padding: 19px 30px 30px 39px;
+	padding: 19px 0px 30px 50px;
 }
 
 .comingsoondescription /* No Use */
@@ -650,6 +650,7 @@ header .social-icon li a
 .logo-img{
   width: 110x;
   height: 45px;
+  padding-right: 12px;
 
 }
 
